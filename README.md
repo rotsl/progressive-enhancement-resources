@@ -122,7 +122,7 @@ With progressive enhancement you support different experiences in different envi
 * [jQuery slider](https://github.com/filamentgroup/jQuery-Slider) - Accessible, custom slider widget based on a standard HTML select.
 * [jQuery custom file input](https://www.filamentgroup.com/lab/jquery-custom-file-input-book-designing-with-progressive-enhancement.html) - Article and library.
 * [React isomorphic form](https://github.com/ghengeveld/react-isomorphic-form/) - Set of React form components which can be pre-rendered & handled server-side. They are enhanced client-side without losing state.
-
+- [Wisp](https://github.com/rotsl/wisp) - Zero-dependency UI engine for progressively enhancing semantic HTML.
 ### Data Visualisations
 
 * [Timeline](https://css-tricks.com/progressive-enhancement-data-visualizations/) - From definition list to SVG illustration (article with demos).
